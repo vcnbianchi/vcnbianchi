@@ -7,11 +7,6 @@
   </a>
 </div>
 
-<h1 align="center">Habilidades</h1>
-<p align="center">Segue somente <b>algumas</b> habilidades que tenho a oferecer</p>
-
-<br>
-
 <h2 align="center">Frontend ⚡</h2>
 
 <div align="center">

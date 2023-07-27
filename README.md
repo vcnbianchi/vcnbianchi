@@ -6,7 +6,7 @@
 <hr>
 
   <a href="https://github.com/Victor-Bianchi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Bianchi&count_private=true&show_icons=true&theme=react"></a>
-  <a href="https://github.com/Victor-Bianchi"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true&show_icons=true&theme=react"></a>
+  <a href="https://github.com/Victor-Bianchi"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Bianchi&layout=compact&count_private=true&show_icons=true&theme=react"></a>
 
   <a href="https://gitlab.com/vcnbianchi"><img align="center" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/victor-nunes-bianchi-3328071b9/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>

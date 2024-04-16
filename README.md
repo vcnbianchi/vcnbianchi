@@ -1,8 +1,7 @@
 ## Olá! 👋🏻
 
-- 🎓 Sou estudante universitário no curso de Ciência da Computação e Engenharia de Software
-- 💻 Atualmente, estou estudando o Back-end com a linguagem PHP
-- 🔭 A procura de uma oportunidade de emprego / estágio
+- 🎓 Sou estudante universitário no curso de Ciência da Computação
+- 💻 Atualmente, estou estudando a linguagem JavaScript
 <hr>
 
   <a href="https://github.com/Victor-Bianchi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Victor-Bianchi&count_private=true&show_icons=true&theme=react"></a>

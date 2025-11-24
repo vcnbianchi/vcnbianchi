@@ -15,6 +15,7 @@
 ## 🛠️ My Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,angular,nodejs,java,spring,flutter,firebase&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,angular,nodejs,java,flutter,firebase&theme=dark"/>
 </div>
+
 

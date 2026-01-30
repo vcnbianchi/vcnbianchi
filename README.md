@@ -8,7 +8,7 @@
 
 - 📱 **Phone**: +55 (16) 9 9755-4090
 - 📧 **Email**: vcnbianchi@outlook.com
-- 💼 **LinkedIn**: [victor-bianchi-3328071b9](https://www.linkedin.com/in/victor-bianchi-3328071b9)
+- 💼 **LinkedIn**: [in/vcnbianchi](https://www.linkedin.com/in/vcnbianchi/) 
 
 ---
 
@@ -17,5 +17,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,angular,nodejs,java,flutter,firebase&theme=dark"/>
 </div>
+
 
 
